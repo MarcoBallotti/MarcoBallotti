@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoBallotti
 - 👀 I’m interested in Videogames 🎮, Cinema 🍿, Design 🏠 and IT in 💻 
-- 🌱 I’m currently learning "Informatica' at "Università degli Studi di Firenze"
+- 🌱 I’m currently learning IT at Florence's University.
 NO TO RACISM ANIWAY
 contact: marcoballotti1998@gmail.com
 <!---
