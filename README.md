@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular 11 and React Native<br>👯 I’m looking to collaborate on Big Projects with a large team<br>🤝 I’m looking for help with my teambuilding skills<br>🌱 I’m currently graduating at Università degli Studi di Firenze <br>💬 Ask me what are you looking for!
+🔭 I’m currently working on Angular, Qwik and React Native<br>👯 I’m looking to collaborate on Big Projects with a large team<br>🤝 I’m looking for help with my teambuilding skills<br>🌱 I’m currently graduating at Università degli Studi di Firenze <br>💬 Ask me what are you looking for!
 
 
 ## 🌐 Socials:
