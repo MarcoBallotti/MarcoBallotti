@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Angular, Qwik and React Native<br>👯 I’m looking to collaborate on Big Projects with a large team<br>🤝 I’m looking for help with my teambuilding skills<br>🌱 I’m currently graduating at Università degli Studi di Firenze <br>💬 Ask me what are you looking for!
 
+[![An image of @marcoballotti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marcoballotti)](https://holopin.io/@marcoballotti)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MarcoBallotti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcoballotti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-ballotti-332baa14a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13527276) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sballottv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ballotti_marco) 
