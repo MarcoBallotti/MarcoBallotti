@@ -1,6 +1,6 @@
 <div align="center">
 
-![Marco Ballotti — Project management, web development, and AI. Five animated mana-inspired symbols reference Magic: The Gathering. Untap. Plan. Build. Repeat.](assets/profile-banner.gif?v=2)
+![Marco Ballotti — Project management, web development, and AI. Five animated mana-inspired symbols reference Magic: The Gathering. Untap. Plan. Build. Repeat.]([assets/profile-banner.gif?v=2](https://github.com/MarcoBallotti/MarcoBallotti/blob/main/assets/profile-banner.gif?raw=true))
 
 Project Manager & Developer working at the intersection of planning, web development, and AI-assisted workflows.
 
